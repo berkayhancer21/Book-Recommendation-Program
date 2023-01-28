@@ -1,0 +1,20 @@
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\bin\Debug\net6.0-windows\OOP Proje Ödevi(yeni).exe
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\bin\Debug\net6.0-windows\OOP Proje Ödevi(yeni).deps.json
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\bin\Debug\net6.0-windows\OOP Proje Ödevi(yeni).runtimeconfig.json
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\bin\Debug\net6.0-windows\OOP Proje Ödevi(yeni).dll
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\bin\Debug\net6.0-windows\OOP Proje Ödevi(yeni).pdb
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\obj\Debug\net6.0-windows\OOP Proje Ödevi(yeni).csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\obj\Debug\net6.0-windows\OOP_Proje_Ödevi_yeni_.Form1.resources
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\obj\Debug\net6.0-windows\OOP_Proje_Ödevi_yeni_.KitaplarBilgi.resources
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\obj\Debug\net6.0-windows\OOP_Proje_Ödevi_yeni_.Kişiselleştir.resources
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\obj\Debug\net6.0-windows\OOP Proje Ödevi(yeni).csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\obj\Debug\net6.0-windows\OOP Proje Ödevi(yeni).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\obj\Debug\net6.0-windows\OOP Proje Ödevi(yeni).AssemblyInfoInputs.cache
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\obj\Debug\net6.0-windows\OOP Proje Ödevi(yeni).AssemblyInfo.cs
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\obj\Debug\net6.0-windows\OOP Proje Ödevi(yeni).csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\obj\Debug\net6.0-windows\OOP Proje Ödevi(yeni).dll
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\obj\Debug\net6.0-windows\refint\OOP Proje Ödevi(yeni).dll
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\obj\Debug\net6.0-windows\OOP Proje Ödevi(yeni).pdb
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\obj\Debug\net6.0-windows\OOP Proje Ödevi(yeni).genruntimeconfig.cache
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\obj\Debug\net6.0-windows\ref\OOP Proje Ödevi(yeni).dll
+C:\Users\MONSTER\source\repos\OOP Proje Ödevi(yeni)\OOP Proje Ödevi(yeni)\obj\Debug\net6.0-windows\OOP_Proje_Ödevi_yeni_.Properties.Resources.resources
